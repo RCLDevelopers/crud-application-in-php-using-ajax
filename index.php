@@ -4,14 +4,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CRUD Application in PHP using AJAX - Coding Birds Online</title>
-    <link rel="shortcut icon" href="https://demo.codingbirdsonline.com/website/img/coding-birds-online/coding-birds-online-favicon.png">
+    <title>CRUD Application in PHP using AJAX - Zangtics Developers</title>
+    <link rel="shortcut icon" href="">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
     <link rel="stylesheet" href="custom.css">
 </head>
 <body>
-<div style="margin-top: 10px;"><img width="100" src="https://demo.codingbirdsonline.com/website/img/coding-birds-online/coding-birds-online-favicon.png" class="center-block"/></div>
+<div style="margin-top: 10px;"><img width="100" src="https://zangticsdigital.com/storage/web-logo-rr-1.png" class="center-block"/></div>
 <div class="container">
     <h3>Delete multiple records from database using PHP </h3>
     <a href="javaScript:void(0);" data-toggle="modal" data-target="#myModal" class="btn btn-primary pull-right bottom-gap">Add New <i class="fa fa-plus" aria-hidden="true"></i></a>
